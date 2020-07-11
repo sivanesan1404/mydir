@@ -1,0 +1,85 @@
+[33mcommit 9e1855e0e9bad1a07bfdedde50101d0ac8753f88[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: arunsreeram <root@ip-172-31-47-24.us-east-2.compute.internal>
+Date:   Sat Jul 11 10:32:50 2020 +0000
+
+    Dinava changes
+
+[33mcommit b12dc541a16a96eace88f30db627a275afd61bca[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a2cde14 79eba4e
+Author: sivanesan1404 <67639947+sivanesan1404@users.noreply.github.com>
+Date:   Fri Jul 3 18:16:34 2020 +0530
+
+    Merge pull request #3 from YVRAMESH/master
+    
+    Ramesh changes
+
+[33mcommit a2cde147f64aecb0ffb7fd01f28de81046158e09[m
+Merge: 365cd3a 7837d1a
+Author: sivanesan1404 <67639947+sivanesan1404@users.noreply.github.com>
+Date:   Fri Jul 3 18:16:17 2020 +0530
+
+    Merge pull request #4 from sanjana-siva/master
+    
+    Create fork_test.txt
+
+[33mcommit 365cd3ad6cd2cf1d13037613f2e45a4ba626d9ae[m
+Merge: c647c3b c2c12fa
+Author: sivanesan1404 <67639947+sivanesan1404@users.noreply.github.com>
+Date:   Fri Jul 3 18:16:00 2020 +0530
+
+    Merge pull request #2 from shraddhamargaj/master
+    
+    Create dev.java
+
+[33mcommit 7837d1a1cd084bd949597b7861eb851dc122b830[m
+Author: sanjana-siva <67789704+sanjana-siva@users.noreply.github.com>
+Date:   Fri Jul 3 18:01:27 2020 +0530
+
+    Create fork_test.txt
+    
+    test
+
+[33mcommit 79eba4e591b998c82a8117dfd99aca4938c0cdec[m
+Author: YVRAMESH <yadamrammi@gmail.com>
+Date:   Fri Jul 3 09:28:29 2020 +0000
+
+    Ramesh changes
+
+[33mcommit c2c12fa4590a839a12c519d68946b43b34369b47[m
+Author: devopsclass <67600655+shraddhamargaj@users.noreply.github.com>
+Date:   Fri Jul 3 01:22:31 2020 +0530
+
+    Create dev.java
+
+[33mcommit c647c3b9feaa9890b712a508cbe2a61a9ac4b6f8[m
+Merge: a73d140 28ae8cc
+Author: sivanesan1404 <67639947+sivanesan1404@users.noreply.github.com>
+Date:   Thu Jul 2 20:58:28 2020 +0530
+
+    Merge pull request #1 from lerndevops/master
+    
+    naresh change
+
+[33mcommit 28ae8cc28fa53f795d3e5a8f4709ffc4259ce90f[m
+Author: lerndevops <lerndevops@gmail.com>
+Date:   Thu Jul 2 15:23:03 2020 +0000
+
+    naresh change
+
+[33mcommit a73d140acd65797641bfb44da8afad4c84908da4[m
+Author: sivanesan1404 <sivanesan1404@gmail.com>
+Date:   Thu Jul 2 06:14:47 2020 +0000
+
+    commit success
+
+[33mcommit 4b022695b5b50ef7a4b28ca14f88131516e130f9[m
+Author: sivanesan1404 <sivanesan1404@gmail.com>
+Date:   Thu Jul 2 06:08:10 2020 +0000
+
+    second
+
+[33mcommit 71f40dea776c56cbc2d5846d13ad532d34452756[m
+Author: sivanesan1404 <sivanesan1404@gmail.com>
+Date:   Thu Jul 2 06:06:08 2020 +0000
+
+    first commit
